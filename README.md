@@ -1,5 +1,3 @@
-##SahelMemariani/README.md
-
 👋 Hi there, I'm Sahel! 
 
 🤖 Machine Learning Engineer & Data Scientist
